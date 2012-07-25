@@ -19,3 +19,7 @@ or
     $ make test-watch
 
 But your code will then be evaluated in the context of a Node.js application and not a browser.
+
+If you would like to integrate these tests into a build system on a server:
+See: http://hackingon.net/post/Testing-Browser-dependent-JavaScript.aspx
+That technique will use ZombieJS as a replacement for the regular browser.
