@@ -18,4 +18,4 @@ or
 
     $ make test-watch
 
-But your code will be evaluated in the context of a Node.js application.
+But your code will then be evaluated in the context of a Node.js application and not a browser.
