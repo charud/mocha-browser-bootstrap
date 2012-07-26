@@ -19,7 +19,7 @@ or
     $ make test-watch
 
 But if you choose to run it from the terminal your code will be evaluated in the context of a Node.js application and not a browser.
-Run test.html from the browser to run it in a browser context.
+Open test.html from a browser to run it in a browser context.
 
 If you would like to integrate these tests into a build system on a server:
 See: http://hackingon.net/post/Testing-Browser-dependent-JavaScript.aspx
