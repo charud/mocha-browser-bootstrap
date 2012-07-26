@@ -10,7 +10,7 @@ Live.js will not work on the file:// protocol so you need a web server from wher
 
     $ python -m SimpleHTTPServer 8000
 
-These tests may also be run as usual from the terminal using
+These tests may also be run from the terminal using
 
     $ make test 
 
